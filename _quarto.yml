@@ -32,7 +32,7 @@ book:
     - index.qmd
     - part: prima-parte-teoria-categorie.qmd
       chapters: 
-        - prima-parte-categorie.qmd
+        - prima-parte-categoria.qmd
   appendices:
     - appendice-riferimenti.qmd
   page-footer:
